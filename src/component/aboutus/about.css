@@ -1,0 +1,136 @@
+.imagess{
+    position: relative;
+    height:100vh;
+    width:100%;
+    background-color:white;
+    top:10px;
+    overflow: hidden;
+}
+.imagess .circle1{
+    height:411.6px;
+    width:379.32px;
+    background-color: #007FFF;
+    position:absolute;
+    left: 18.61%;
+    right: 52.84%;
+    top: 11.85%;
+    bottom: 82.57%;
+    border-radius:100%;
+}
+.imagess .circle2{
+    height:200px;
+    width:200px;
+    position: relative;
+    left:200px;
+    top:300px;
+    border-radius: 100%;
+
+background: #F05A28;
+transform: matrix(-0.97, -0.22, 0.26, -0.97, 0, 0);
+}
+.imagess .image1 img{
+    border:5px solid white;
+    border-radius:8px;
+    height:395px;
+    width:418px;
+    position:relative;
+    left:70px;
+    bottom:115px;
+
+}
+.aboutus1 p{
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 60px;
+color:#17224D;
+}
+.aboutus2 p{
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+margin-bottom:20px;
+}
+.imagess .image2 img{
+    border:5px solid white;
+    height:180px;
+    width:150px;
+    position:relative;
+    left:340px;
+    bottom:270px;
+    border-radius: 8px;
+}
+.imagess .image3 img{
+    border:5px solid white;
+    border-radius: 8px;
+    position:relative;
+    left:400px;
+    bottom:560px;
+    width:189px;
+    height:164px;
+
+}
+.imagess .aboutus1{
+    position:relative;
+    bottom:830px;
+    left:750px;
+    color:#17224D;
+    font-size:45px;
+    font-weight: 800;
+    font-style:normal;
+}
+.imagess .aboutus2{
+    position:relative;
+    bottom:800px;
+    left:750px;
+    font-style: normal;
+    font-weight: 500;
+    color:#515151;
+    line-height: 32px;
+    font-size: 22px;
+}
+ .ticks{
+    position:absolute;
+    top:330px;
+    left:740px;
+}
+
+.tick{
+    margin: 12px;
+    display:flex;
+    gap:20px;
+}
+.about-round{
+    height:50px;
+    width:164px;
+    background-color: #007FFF;
+    position:relative;
+    bottom:650px;
+    border-radius: 24px;
+    left:750px;
+    
+    
+}
+.about-round1{
+    position:relative;
+    left:25px;
+    top:10px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 32px;
+color:white;
+}
+.about-round2{
+    height:32px;
+    width:32px;
+    border-radius:50%;
+    background-color: white;
+    margin-left: 120px;
+    position:relative;
+    bottom:22px;
+}

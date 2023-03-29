@@ -1,0 +1,68 @@
+.orange-back{
+    height:500px;
+    width:100%;
+    background-color: white;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.img-org img{
+    height:420px;
+    width:1110px;
+    position:relative;
+    left:80px;
+    border-radius: 24px;
+}
+.org-para{
+    position:relative;
+    bottom:390px;
+    left:150px;
+    font-style: normal;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    color:white;
+}
+.org-para1{
+    position:relative;
+    bottom:380px;
+    left:150px;
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 32px;
+    color:white;
+}
+.org-button{
+    height:50px;
+    width:164px;
+    background-color:white;
+    position:relative;
+    bottom:300px;
+    left:150px;
+    border-radius:25px;
+}
+.getnow{
+    text-align: center;
+    position:relative;
+    top:17px;
+    right:10px;
+    color:#FF960C;
+    font-size:15px;
+    font-weight: 600;
+}
+.circle{
+    height:32px;
+    width:32px;
+    border-radius:50%;
+    background-color:#FF960C ;
+    position:relative;
+    left:123px;
+    bottom:9px;
+}
+.org-arrow{
+   position:relative;
+   left:10px; 
+   top:5px;
+}

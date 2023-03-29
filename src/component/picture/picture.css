@@ -1,0 +1,59 @@
+.picture{
+    height:600px;
+    width:100%;
+    background-color: white;
+    overflow: hidden;
+    
+}
+.image img{
+    height:560px;
+    width:1110px;
+    position:absolute;
+    left:70px;
+    padding:20px;
+    border-radius: 50px;
+}
+.text{
+    text-align: center;
+    position:relative;
+    top:40px;
+    color: #17224D;
+    font-family: 'Nunito''sans-serif';
+    font-weight: 800;
+    font-size: 30px;
+    /* font-style: normal; */
+    line-height: 60px;
+}
+.text1{
+    text-align: center;
+    position:relative;
+    left:15px;
+    top:50px;
+    font-size: 26px;
+    font-weight: 600;
+    color:#231F20;
+    line-height: 32px;
+    font-family: 'Nunito''sans-serif';
+    /* font-style:normal; */
+}
+.picture-arrow{
+    display:flex;
+    margin-top: 170px;
+    justify-content: space-between;
+}
+.picture-arrow1{
+    height:45px;
+    width:45px;
+    background-color: #007fff;
+    border-radius: 50%;
+    margin-left:40px;
+}
+.picture-arrow2{
+    height:45px;
+    width:45px;
+    background-color: #EDEDED;
+    border-radius: 50%;
+    margin-right:53px;
+}
+
+

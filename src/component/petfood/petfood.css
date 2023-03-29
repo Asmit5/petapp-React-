@@ -1,0 +1,138 @@
+.pet-back{
+    height:700px;
+    width:100%;
+    background-color:white;
+    margin-top:3px;
+}  
+.pet-para{
+    text-align:center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 60px;
+    color:#17224D;
+    font-family: 'Nunito' 'sens-serif';
+}
+.pet-para1{
+    text-align: center;
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color:#515151;
+    margin-top: 8px;
+}
+.container111{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 22px;
+}
+.box1{
+    height:447px;
+    width:280px;
+    background-color: white;
+    margin:12px;
+    border-radius: 12px;
+    border:1px solid #D4D2E3;
+}
+.box1 img{
+    height:264px;
+    width:264px;
+    border-radius: 12px;
+}
+.food-name{
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+color:#17224D;
+margin-top:10px;
+position:relative;
+left:15px;
+}
+.product{
+    display:flex;
+    margin-left:18px;
+    margin-top:10px;
+    gap:5px;
+}
+.product1{
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color:#515151;
+}
+.product2{
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color:#292929;
+}
+.price{
+    margin-top:15px;
+    margin-left:18px;
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+}
+.view-product{
+    width:248px;
+    height:35px;
+    background-color: #007FFF;
+    border-radius: 4px;
+    margin-left:15px;
+    margin-top: 10px;
+}
+.pet-product{
+    text-align: center;
+    padding:9px;
+    color:white;
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 550;
+font-size: 16px;
+line-height: 20px;
+}
+.pet-button{
+    height:50px;
+    width:164px;
+    background-color: #007FFF;
+    border-radius: 25px;
+    align-items: center;
+    position:relative;
+    left:530px;
+    top:30px;
+}
+.pet-view-all{
+    color:white;
+    padding:8px;
+    margin-left: 30px;
+    font-family: 'Inter' 'sens-serif';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 32px;
+}
+.pet-round{
+    height:32px;
+    width:32px;
+    background-color: white;
+    border-radius: 50%;
+    position:relative;
+    bottom:40px;
+    left:118px;
+
+}
+.pet--arrow{
+    margin-left:10px;
+    position:relative;
+    top:4px;
+}

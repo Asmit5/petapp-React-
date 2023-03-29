@@ -1,0 +1,138 @@
+.collection1{
+    height:990px;
+    width:100%;
+    background-color: white;
+    margin-top:10px ;
+}
+.our-collection{
+    text-align: center;
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-size:45px;
+    font-weight:700;
+    line-height: 60px;
+    color:#17224D;
+    margin-left:15px;
+}
+.para11{
+    text-align: center;
+    padding:15px;
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+color:#515151;
+}
+.container11{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+.items11{
+    height:350px;
+    width:280px;
+    background-color: white;
+    margin:10px;
+    border: 1px solid #D4D2E3;
+    border-radius: 14px;
+    position:relative;
+    left:28px;
+}
+
+.items11 img{
+    height: 255px;
+    width:278px;
+    padding:2px;
+    border:12px;
+    border-radius: 12px;
+}
+.dog{
+   
+width: 129px;
+height: 24px;
+font-family: 'Nunito''sens-serif';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+color: #17224D;
+position:absolute;
+left:20px;
+}
+.golden{
+    position:absolute;
+    left:20px;
+    bottom:30px;
+    display: flex;
+    gap:5px;
+}
+.gender{
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+color: #515151;
+}
+.mf{
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+color:#292929;
+}
+.age{
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #515151;  
+}
+.month{
+    font-family: 'Nunito' 'sens-serif';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+color:#292929;
+}
+.agee{
+    display: flex;
+    margin-left: 20px;
+    gap:5px;
+}
+
+.button{
+    display: flex;
+    background-color: #007FFF;
+    border-radius: 25px;
+    height:50px;
+    width:164px;
+    position:absolute;
+    left:540px;
+    top: 3250.5px;
+    align-items: center;
+}
+.view{
+    position:relative;
+    left:40px;
+    color:white;
+    font-weight: 600;
+font-size: 15px;
+line-height: 32px;
+}
+.button1{
+    height:32px;
+    width:32px;
+    border-radius: 50%;
+    background-color: white;
+    position:relative;
+    left:60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

@@ -1,0 +1,116 @@
+.flex1{
+    width:100%;
+    height:180vh;
+    background-color: white;
+    margin-top:40px;
+}
+ .services p{
+    text-align: center;
+    font-family: 'Nunito''sens-serif';
+    /* font-style:normal; */
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 60px;
+    color:#17224D;
+}
+ .services1 p{
+    text-align: center;
+    font-family: 'Nunito' 'sens-serif';
+    font-style:normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color: #515151;
+}
+.flex2{
+    display: flex;
+    flex-wrap: wrap;
+    position:absolute;
+    left:35px;
+}
+.items1{
+    height:400px;
+    width:339px;
+    background-color: white;
+    margin:20px;
+    border-radius: 8px;
+    border:1px solid grey;
+    position:relative;
+    left:30px;
+
+}
+.items1 img{
+    height:200px;
+    width:337.5px;
+    border:5px solid white;
+    border:none;
+    border-radius: 8px 8px 0px 0px;
+}
+.items1 p{
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    font-size: 25px;
+    line-height: 38px;
+    position:relative;
+    left:15px;
+    top:10px;
+    font-weight: 600;
+    color:#17224D;
+}
+.para1{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    font-family: 'Nunito' 'sens-serif';
+    font-style: normal;
+    position:relative;
+    top:14px;
+    left:15px;
+    color:#515151;
+}
+.read{
+    height:45px;
+    width:120px;
+    background-color: white;
+    border-radius: 100px;
+    border:1px solid  #007FFF;
+    position:absolute;
+    bottom:10px;
+    left:23px;
+    text-align: center;
+    padding:12px;
+    
+}
+.readnow{
+    color:#007FFF;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 18px;
+}
+.book{
+    height:45px;
+    width:165px;
+    background-color: #007FFF;
+    position:relative;
+    left:156px;
+    top:27px;
+    border-radius: 100px;
+    padding:14px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.booknow{
+    color:white;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 550;
+font-size: 12px;
+line-height: 18px;
+margin-left: 5px;
+}
+
+
+
+
